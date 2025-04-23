@@ -1,0 +1,1 @@
+This is a simple stock tracker to see when a stock moves by 1% on the stock market. It uses free APIs and sends a curated list of 'reputable' ie FT, Reuters, Bloomberg articles via Twilio free tier API to my mobile phone.
